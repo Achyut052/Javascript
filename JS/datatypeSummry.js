@@ -23,5 +23,5 @@ let obj = {
 }
 
 const myFunction = function(){
-    console.log(arr);
+    console.log("hello world");
 }
